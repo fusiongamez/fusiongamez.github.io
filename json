@@ -1,18 +1,12 @@
 [
   {
-    "m_Name": "Fearless Monster Truck",
-    "m_Descirption": "Pixel Fury is a multiplayer shooter where you can fight against players worldwide! In this FPS you can use wide variety of guns on wide variety of awesome maps!",
-    "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.sbs.pixelcombat&hl=ka",
-    "m_IOSUrl": "https://itunes.apple.com/us/app/pixel-fury-multiplayer-fps/id1150002744?mt=8",
-    "m_PackageID": "com.sbs.pixelcombat",
-    "m_ImageUrls": [
-      "https://images-eu.ssl-images-amazon.com/images/I/71UYd9vFhiL.png",
-      "https://cdn.apkmonk.com/logos/com.publish.craft_150x150.png"
-    ],
-    "m_Probability": {
-      "m_ChanceWeight": 600.0
-    },
-    "m_ColorTheme": "#06d0eb"
+    "id": "0",
+    "banner": "Pixel Fury is a multiplayer shooter where you can fight against players worldwide! In this FPS you can use wide variety of guns on wide variety of awesome maps!",
+    "logo": "https://play.google.com/store/apps/details?id=com.sbs.pixelcombat&hl=ka",
+    "screenland": "https://itunes.apple.com/us/app/pixel-fury-multiplayer-fps/id1150002744?mt=8",
+    "screenpot": "com.sbs.pixelcombat",
+    "url" : "url"    
+    "priority": "2"
   }
  
 ]
